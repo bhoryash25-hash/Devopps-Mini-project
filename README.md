@@ -6,8 +6,8 @@ This repository contains coursework and DevOps mini projects submitted as part o
 
 | Path | Description |
 |---|---|
-| `Pratik_1037_Unit1_devops.docx` | Unit 1 DevOps submission |
-| `Pratik_1037_Unit2_devops.docx` | Unit 2 DevOps submission |
+| `Yash_1112_Unit1_devops.docx` | Unit 1 DevOps submission |
+| `Yash_1112_Unit2_devops.docx` | Unit 2 DevOps submission |
 | `Mini-Project-3/` | Student Academic Management Platform |
 | `Mini-Project-3-Docker/` | Project 3 Dockerization branch snapshot |
 | `Mini-Project-3-Jenkins/` | Project 3 Jenkins CI and Kubernetes branch snapshot |
